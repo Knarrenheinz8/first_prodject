@@ -19,12 +19,12 @@ namespace Control
             float price2;
             float priceTotal;
 
-           Console.WriteLine("Hello Barmen! Enter the name: ");
-           name = Console.ReadLine();
-           Console.WriteLine("What is number of order?" );
-           orderNumber = Convert.ToInt64(Console.ReadLine());
-           Console.WriteLine("What is the day of week today?");
-           day = Console.ReadLine();
+           //Console.WriteLine("Hello Barmen! Enter the name: ");
+            name = "Vitaliy";
+           //Console.WriteLine("What is number of order?" );
+           orderNumber = 666;
+            //Console.WriteLine("What is the day of week today?");
+            day = "thursday";
            Console.WriteLine("What is product 1 name?");
            product1 = Console.ReadLine();
            Console.WriteLine("What is product 1 price?");
