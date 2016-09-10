@@ -39,8 +39,9 @@ namespace Control
 
            Console.WriteLine("Hello, " + name+  "\\\tToday is " + day);
            Console.WriteLine("Number of order:  #" + orderNumber );
-           Console.WriteLine("1. (0) \t (1)\n2. (2) \t (3)", product1, price1, product2, price2);
+           Console.WriteLine("1. {0} \t {1}\n2. {2} \t {3}", product1, price1, product2, price2);
             Console.WriteLine("Total: ".ToUpper() + priceTotal);
+            Console.ReadLine();
         
 
 
