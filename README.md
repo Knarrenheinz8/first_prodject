@@ -1,1 +1,1 @@
-# first_prodject
+# First education project
